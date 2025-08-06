@@ -1,5 +1,5 @@
-# Firebase Studio
+# ReimburseAI
 
-This is a NextJS starter in Firebase Studio.
+This is our initial structure of my final year project undertaken by my friends and I.
 
-To get started, take a look at src/app/page.tsx.
+Mostly built using Firebase Studio and Firebase AI, with languages such as Typescript and frameworks like Tailwind CSS, and the node.js RE.
